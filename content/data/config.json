@@ -15,7 +15,7 @@
             },
             {
                 "label": "Fotos",
-                "url": "#",
+                "url": "https://photos.tissoni.com",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
