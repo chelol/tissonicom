@@ -16,7 +16,7 @@ intro_actions:
 has_more_link: true
 more_link_text: Continuar leyendo...
 seo:
-  title: Stackbit Ampersand Theme
+  title: Marcelo Tissoni blog
   description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
