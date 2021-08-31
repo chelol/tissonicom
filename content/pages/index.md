@@ -39,7 +39,9 @@ seo:
     - name: 'twitter:title'
       value: Marcelo Tissoni blog
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Marcelo Tissoni blog, Linux, Programación, Tecnología, Bitácora
+        personal.
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
