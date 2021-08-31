@@ -23,7 +23,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: Marcelo Tissoni blog
       keyName: property
     - name: 'og:description'
       value: The preview of the Ampersand theme
