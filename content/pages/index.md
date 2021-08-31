@@ -14,7 +14,7 @@ intro_actions:
     url: /contact
     style: secondary
 has_more_link: true
-more_link_text: Read more
+more_link_text: Leer mas
 seo:
   title: Stackbit Ampersand Theme
   description: The preview of the Ampersand theme
