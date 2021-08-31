@@ -17,7 +17,7 @@ has_more_link: true
 more_link_text: Continuar leyendo...
 seo:
   title: Marcelo Tissoni blog
-  description: The preview of the Ampersand theme
+  description: 'Marcelo Tissoni blog, Linux, Programación, Tecnología, Bitácora personal.'
   extra:
     - name: 'og:type'
       value: website
