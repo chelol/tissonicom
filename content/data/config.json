@@ -19,11 +19,6 @@
                 "style": "link"
             },
             {
-                "label": "Contacto",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "label": "Photos",
                 "url": "#",
                 "style": "link",
