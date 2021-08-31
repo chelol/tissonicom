@@ -26,7 +26,9 @@ seo:
       value: Marcelo Tissoni blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Marcelo Tissoni blog, Linux, Programación, Tecnología, Bitácora
+        personal.
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
