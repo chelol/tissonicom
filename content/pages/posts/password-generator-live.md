@@ -1,7 +1,7 @@
 ---
 title: Password Gen Live, una herramienta para generar contraseñas y frases seguras 
 excerpt: >-
-  Esta herramienta la desarrolle con la idea...
+  
 date: '2022-07-21'
 seo:
   title: Password Gen Live, una herramienta para generar contraseñas y frases seguras
@@ -20,6 +20,11 @@ seo:
 layout: post
 ---
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+Es una aplicación web que realice con JavaScript (react), no utilize bases de datos, las contraseñas se generan en el navegador mediante una API OpenSource de Mozilla [Crypto.getRandomValues](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues), además las contraseñas generadas no se trasmiten del navegador. 
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+Ofrece una serie de criterios que el usuario puede tomar como base para crear una contraseña segura, entre estos símbolos, letras mayúsculas y minúsculas, números y la longitud máxima deseada, de acuerdo al gusto del usuario.
+
+Ante el riesgo de comprometer nuestros datos sensibles por usar contraseñas débiles, fáciles de descifrar o repetidas, dos herramientas resultan absolutamente básicas para protegernos: un buen generador de contraseñas seguras y aleatorias, y un robusto gestor de contraseñas que nos ayude a llevar el registro de todas nuestras cuentas con contraseñas únicas y originales, sin repetir ni caer en patrones comunes.
+
+
+La web es [passwordgen.live](https://passwordgen.live).
